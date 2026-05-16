@@ -5,7 +5,7 @@ I created this project while learning how to use SQLite for local data storage i
 
 ---
 
-## 📚 About the Project
+## 📚 About the Project 
 
 The main purpose of this project is to understand how SQLite works, including database creation, data insertion, updating records, and retrieving stored data.
 
