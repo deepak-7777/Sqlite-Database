@@ -18,7 +18,7 @@ It demonstrates the basic CRUD operations used in real-world applications.
 * Create SQLite Database
 * Create Tables
 * Insert Data
-* Fetch/Retrieve Data
+* Fetch/Retrieve Data 
 * Update Records
 * Delete Records
  
