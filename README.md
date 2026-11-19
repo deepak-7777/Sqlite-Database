@@ -1,4 +1,4 @@
-# 📂 SQLite Practice Project
+# 📂 SQLite Practice Project 
 
 This repository contains my practice work and learning implementation of **SQLite Database**.
 I created this project while learning how to use SQLite for local data storage in applications.
